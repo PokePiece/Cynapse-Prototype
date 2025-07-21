@@ -33,7 +33,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-950 text-white">
       <div className="bg-gray-900 p-6 rounded-xl shadow-xl w-full max-w-sm">
-        <h2 className="text-xl mb-4">🔒 Cynasius Login</h2>
+        <h2 className="text-xl mb-4">🔒 Cynapse Login</h2>
         <input
           className="mb-2 p-2 w-full rounded bg-gray-800 border border-gray-700"
           placeholder="Username"
